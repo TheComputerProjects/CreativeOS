@@ -1,0 +1,15 @@
+.App {
+  position: center;
+  size: cover;
+
+  display: block;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  margin-top: -250px; /* 50% of your actual height */
+}
+
+.Taskbar {
+  position: fixed;
+  bottom: 0;
+}

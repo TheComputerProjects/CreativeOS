@@ -1,2 +1,3 @@
-# CreativeOS-Offical
+# CreativeOS
+
 The Web OS
