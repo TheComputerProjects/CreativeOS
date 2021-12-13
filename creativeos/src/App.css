@@ -6,7 +6,9 @@
   height: 500px;
   position: absolute;
   top: 50%;
-  margin-top: -250px; /* 50% of your actual height */
+  margin-top: -300px; /* 50% of your actual height */
+  display: flex;
+  min-height: 100vh;
 }
 
 .Taskbar {
